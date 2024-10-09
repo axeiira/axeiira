@@ -5,7 +5,7 @@ Currently working on :
 ### Now Playing — Spotify 🎧
 <a href="https://axeiira.pythonanywhere.com/link">
   <img
-    src="https://axeiira.pythonanywhere.com?theme=dark&?eq_color=rainbow&spin=true"
+    src="https://axeiira.pythonanywhere.com?theme=dark&eq_color=rainbow&spin=true"
     alt="Current Spotify Song"
   />
 </a>
