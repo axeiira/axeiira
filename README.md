@@ -1,14 +1,19 @@
 ### Hi there 👋
-Currently working on :
+I'm currently working on :
 - [Personal Website](https://github.com/axeiira/axeiira-site.git)
 
-### Now Playing — Spotify 🎧
-<a href="https://axeiira.pythonanywhere.com/link">
-  <img
-    src="https://axeiira.pythonanywhere.com?theme=dark&eq_color=rainbow&spin=true"
-    alt="Current Spotify Song"
-  />
-</a>
+<p align="center">
+  <font size="4">Now Playing — Spotify 🎧</font>
+</p>
+
+<p align="center">
+  <a href="https://axeiira.pythonanywhere.com/link">
+    <img
+      src="https://axeiira.pythonanywhere.com?theme=dark&eq_color=rainbow&spin=true"
+      alt="Current Spotify Song"
+    />
+  </a>
+</p>
 
 <!--
 **axeiira/axeiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
