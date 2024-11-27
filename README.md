@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm currently working on some exciting projects. Check them out below:
+Welcome !
 
 ## 🌟 Current Projects
 
@@ -15,22 +15,11 @@ Welcome to my GitHub profile! I'm currently working on some exciting projects. C
 
 ---
 
-## 📚 Technologies I Use
-
-- Python | OpenCV | Deep Learning | TensorFlow | Keras | React | Flask | Docker
-- Exploring new tools, always learning and improving.
-
 ## 🎧 Current Music on Spotify
 
 Check out what I'm listening to right now:
 
 [![Current Song on Spotify](https://axeiira.pythonanywhere.com?theme=dark&eq_color=rainbow&spin=true)](https://axeiira.pythonanywhere.com/link)
-
----
-
-## 💬 Let's Connect
-
-Feel free to check out my repositories and reach out if you want to collaborate or discuss exciting tech ideas!
 
 ---
 
