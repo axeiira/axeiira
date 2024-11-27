@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome, I do some web development, machine learning, and a little bit of embedded systems.
+Welcome, I do some web development, machine learning, and a little bit of IoT.
 
 ## 🛠️ Current Projects
 
@@ -14,7 +14,7 @@ Welcome, I do some web development, machine learning, and a little bit of embedd
   A cloud classification website to predict cloud types based on images using deep learning.
 
 - [**C-Dex (Movie Website)**](https://github.com/c-dexx)  
-  Website for Movie Documentaries and Reviews
+  Website for Movie Documentaries and Reviews.
 
 - [**Elevator Weight Monitoring Simulation**](https://github.com/axeiira/ESP32-Elevator-Load-Monitor.git)  
   An IoT-based system for monitoring elevator weight using a load cell and HX711 module, powered by ESP32. This system provides real-time data over both MQTT and HTTP protocols and integrates seamlessly with Node-RED for visualization and predictive maintenance.
