@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm currently working on :
 - [Personal Website](https://github.com/axeiira/axeiira-site.git)
+- [Blackjack w/ Deep Learning](https://github.com/axeiira/Deep-Learning-Blackjack)
 
 <p align="center">
   <font size="4">Now Playing — Spotify 🎧</font>
