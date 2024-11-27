@@ -38,6 +38,10 @@ Welcome !
 </p>
 
 ---
+<p align="center">
+  <b><font size="6" color="#1DB954">▶️ Playing Now </font></b>
+</p>
+
 
 <p align="center">
   <a href="https://axeiira.pythonanywhere.com/link">
