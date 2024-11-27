@@ -14,12 +14,20 @@ Welcome !
   A cloud classification website to predict cloud types based on images using deep learning.
 
 ---
+<p align="center">
+  <b><font size="6" color="#1DB954"> ▶️ Playing Now </font></b>
+</p>
 
-## 🎧 Current Music on Spotify
 
-Check out what I'm listening to right now:
 
-[![Current Song on Spotify](https://axeiira.pythonanywhere.com?theme=dark&eq_color=rainbow&spin=true)](https://axeiira.pythonanywhere.com/link)
+<p align="center">
+  <a href="https://axeiira.pythonanywhere.com/link">
+    <img
+      src="https://axeiira.pythonanywhere.com?theme=dark&eq_color=rainbow&spin=true"
+      alt="Current Spotify Song"
+    />
+  </a>
+</p>
 
 ---
 
