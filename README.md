@@ -23,8 +23,11 @@ Check out what I'm listening to right now:
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/axeiira?style=social)
-![GitHub stars](https://img.shields.io/github/stars/axeiira?style=social)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/axeiira?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/axeiira?style=social" alt="GitHub stars" />
+</p>
+
 
 
 <!--
