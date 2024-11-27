@@ -49,7 +49,7 @@ Welcome, I do some web development, machine learning, and a little bit of embedd
 <p align="center">
   <a href="https://axeiira.pythonanywhere.com/link">
     <img
-      src="https://axeiira.pythonanywhere.com?theme=dark&eq_color=rainbow&spin=true"
+      src="https://axeiira.pythonanywhere.com?theme=dark&eq_color=rainbow&spin=false"
       alt="Current Spotify Song"
     />
   </a>
