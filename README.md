@@ -2,7 +2,7 @@
 
 Welcome !
 
-## 🌟 Current Projects
+## 🛠️ Current Projects
 
 - [**Personal Website**](https://github.com/axeiira/axeiira-site.git)  
   A minimalistic portfolio showcasing my work, with a focus on clean design and user experience.
