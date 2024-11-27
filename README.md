@@ -2,6 +2,7 @@
 I'm currently working on :
 - [Personal Website](https://github.com/axeiira/axeiira-site.git)
 - [Blackjack w/ Deep Learning](https://github.com/axeiira/Deep-Learning-Blackjack)
+- [Cloud Classification Website](https://github.com/axeiira/whicher-weather-classification)
 
 <p align="center">
   <font size="4">Now Playing — Spotify 🎧</font>
