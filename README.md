@@ -13,6 +13,9 @@ Welcome !
 - [**Cloud Classification Website**](https://github.com/axeiira/whicher-weather-classification)  
   A cloud classification website to predict cloud types based on images using deep learning.
 
+- [**C-Dex (Movie Website)**](https://github.com/c-dexx)  
+  Website for Movie Documentaries and Reviews
+
 ---
 
 ## 📒 Techstack
