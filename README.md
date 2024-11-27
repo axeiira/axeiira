@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome !
+Welcome, I do some web development, machine learning, and a little bit of embedded systems.
 
 ## 🛠️ Current Projects
 
