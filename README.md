@@ -16,6 +16,9 @@ Welcome, I do some web development, machine learning, and a little bit of embedd
 - [**C-Dex (Movie Website)**](https://github.com/c-dexx)  
   Website for Movie Documentaries and Reviews
 
+- [**Elevator Weight Monitoring Simulation**](https://github.com/axeiira/ESP32-Elevator-Load-Monitor.git)  
+  An IoT-based system for monitoring elevator weight using a load cell and HX711 module, powered by ESP32. This system provides real-time data over both MQTT and HTTP protocols and integrates seamlessly with Node-RED for visualization and predictive maintenance.
+
 ---
 
 ## 📒 Techstack
