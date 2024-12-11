@@ -10,7 +10,7 @@ Welcome, I do some web development, machine learning, and a little bit of IoT.
 - [**Blackjack w/ Deep Learning**](https://github.com/axeiira/Deep-Learning-Blackjack)  
   Using deep learning and computer vision to automate a Blackjack card game with real-time image recognition.
   
-- [**Cloud Classification Website**](https://github.com/axeiira/whicher-weather-classification)  
+- [**Cloud Classification Website**](https://github.com/axeiira/cloud-classification-web)  
   A cloud classification website to predict cloud types based on images using deep learning.
 
 - [**C-Dex (Movie Website)**](https://github.com/c-dexx)  
