@@ -2,25 +2,6 @@
 
 Welcome, I do some web development, machine learning, and a little bit of IoT.
 
-## 🛠️ Current Projects
-
-- [**Personal Website**](https://github.com/axeiira/axeiira-site.git)  
-  A minimalistic portfolio showcasing my work, with a focus on clean design and user experience.
-  
-- [**Blackjack w/ Deep Learning**](https://github.com/axeiira/Deep-Learning-Blackjack)  
-  Using deep learning and computer vision to automate a Blackjack card game with real-time image recognition.
-  
-- [**Cloud Classification Website**](https://github.com/axeiira/cloud-classification-web)  
-  A cloud classification website to predict cloud types based on images using deep learning.
-
-- [**C-Dex (Movie Website)**](https://github.com/c-dexx)  
-  Website for Movie Documentaries and Reviews.
-
-- [**Elevator Weight Monitoring Simulation**](https://github.com/axeiira/ESP32-Elevator-Load-Monitor.git)  
-  An IoT-based system for monitoring elevator weight using a load cell and HX711 module, powered by ESP32. This system provides real-time data over both MQTT and HTTP protocols and integrates seamlessly with Node-RED for visualization and predictive maintenance.
-
----
-
 ## 📒 Techstack
 
 <p align="center">
@@ -42,23 +23,6 @@ Welcome, I do some web development, machine learning, and a little bit of IoT.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axeiira&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
-
----
-<p align="center">
-  <b><font size="6" color="#1DB954">▶️ Playing Now </font></b>
-</p>
-
-
-<p align="center">
-  <a href="https://axeiira.pythonanywhere.com/link">
-    <img
-      src="https://axeiira.pythonanywhere.com?theme=dark&eq_color=rainbow&spin=false"
-      alt="Current Spotify Song"
-    />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/axeiira?style=social" alt="GitHub followers" />
